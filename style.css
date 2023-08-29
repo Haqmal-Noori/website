@@ -1,0 +1,175 @@
+body{
+    background-color: rgb(163, 157, 157);
+    margin: 0px;
+}
+
+.header{
+    background-color: rgb(43, 43, 43);
+    position: fixed;
+    top: 0px;
+}
+
+.logo-pic{
+    width: 310px;
+    height: 90px;
+}
+.logo{
+    display: inline-block;
+    margin-right: 370px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+h3{
+    color: rgb(190, 198, 198);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: color 0.4s;
+    cursor: pointer;
+}
+
+h3:hover{
+    color: white;
+}
+
+.home{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+   
+    
+}
+.whoweare{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    
+}
+.Ourservices{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    
+}
+.Ourteam{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+   
+}
+.Newsupdate{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    
+}
+.contactus{
+    display: inline-block;
+    color: white;
+    margin-right: 74px;
+}
+
+
+.background{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)) ,url(pictures/pngegg\ \(3\).png);
+    height: 1000px;
+    display: block;
+    margin-top: 120px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.interduce{
+    margin-top: 250px;
+    margin-left: -50px;
+    display: inline-block;
+    
+}
+
+.services,
+.welcome{
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 48px;
+    height: 15px;
+    width: 380px;
+    margin-left: 650px;
+    
+}
+
+.haqmalafghan{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    height: 60px;
+    width: 800px;
+    margin-left: 450px;
+}
+
+.about{
+    background-color: rgb(43, 43, 43);
+    height: 500px;
+    width: 1080px;
+    margin-left: 210px;
+    margin-top: 30px;
+}
+
+.mission{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align: top;
+   
+    
+}
+
+.vision{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 18px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 30px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.corevalues{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 30px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.marify{
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+.before{
+    height: 10px;
+
+}
